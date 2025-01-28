@@ -1,1 +1,16 @@
-env
+# Виртуалды орта
+.venv/
+env/
+
+# Кэш файлдары
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite дерекқоры
+*.sqlite3
+
+# IDE конфигурациялары
+.idea/
+.vscode/
